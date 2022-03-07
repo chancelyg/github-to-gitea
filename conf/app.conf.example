@@ -1,0 +1,26 @@
+[general]
+# 日志位置
+logsPtah = 
+
+[github]
+url = https://github.com
+# Github用户名
+user = chancelyg
+# 访问Github使用网络代理，留空表示不使用网络代理
+proxy = 
+
+[gitea]
+username = chancel
+password = 123456
+# gitea克隆仓库的用户名或组织名
+organization = github
+# 是否对克隆的仓库做镜像
+mirror = on
+# Gitea的访问网址
+url = https://gitea.com
+# 访问Gitea使用网络代理，留空表示不使用网络代理
+proxy =
+# 克隆仓库超时时间
+timeout = 300
+# 仓库私有性
+private = off

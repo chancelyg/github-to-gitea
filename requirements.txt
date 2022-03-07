@@ -1,0 +1,16 @@
+altgraph==0.17.2
+beautifulsoup4==4.10.0
+bs4==0.0.1
+certifi==2021.10.8
+charset-normalizer==2.0.12
+idna==3.3
+importlib-metadata==4.11.2
+pyinstaller==4.10
+pyinstaller-hooks-contrib==2022.2
+PyYAML==6.0
+requests==2.27.1
+soupsieve==2.3.1
+typing_extensions==4.1.1
+urllib3==1.26.8
+yapf==0.32.0
+zipp==3.7.0
